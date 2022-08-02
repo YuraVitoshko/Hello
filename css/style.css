@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa:regular,500,600,700display=swap");
+@import url("https://fonts.googleapis.com/css?family=Amatic+SC:regular,700&display=swap");
+
+body{
+	font-family: "Comfortaa", sans-serif;
+	background: url("../img/ara.jpg") center no-repeat;
+}
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	font-size: 30px;
+	font-weight: 700;
+	color: rgb(15, 81, 223);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 20px 15px;
+}
+
